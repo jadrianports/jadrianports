@@ -10,8 +10,11 @@
 
 <div align="center">
 
-<!-- ░░░ MICROSOFT WORDART HEADER (committed SVG) ░░░ -->
+<!-- ░░░ MICROSOFT WORDART HEADER (committed, animated SVG) ░░░ -->
 <img src="./welcome-wordart.svg" width="92%" alt="Welcome to my GitHub Profile"/>
+
+<!-- ░░░ ANIMATED SCROLLING MARQUEE (committed SVG) ░░░ -->
+<img src="./marquee.svg" width="92%" alt="scrolling marquee"/>
 
 `★·.·´¯·.·★  J A M E S   A D R I A N   P O R T E R  ★·.·´¯·.·★`
 
