@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="44" viewBox="0 0 900 44" role="img" aria-label="scrolling marquee">
+  <!-- classic Win95 navy bevel -->
+  <rect width="900" height="44" fill="#000080"/>
+  <rect x="1.5" y="1.5" width="897" height="41" fill="none" stroke="#c0c0c0" stroke-width="3"/>
+  <defs><clipPath id="c"><rect x="4" y="4" width="892" height="36"/></clipPath></defs>
+  <g clip-path="url(#c)" font-family="'Courier New', monospace" font-weight="bold" font-size="21" fill="#33ff99">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1090 0" dur="13s" repeatCount="indefinite"/>
+      <text x="0" y="29">★ WELCOME TO MY CORNER OF THE WEB ★ NO FREE CLOUT ★ BEST VIEWED IN NETSCAPE NAVIGATOR ★</text>
+      <text x="1090" y="29">★ WELCOME TO MY CORNER OF THE WEB ★ NO FREE CLOUT ★ BEST VIEWED IN NETSCAPE NAVIGATOR ★</text>
+    </g>
+  </g>
+</svg>
