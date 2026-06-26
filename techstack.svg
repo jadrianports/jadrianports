@@ -1,0 +1,254 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="614" height="477" viewBox="0 0 614 477" role="img" aria-label="tech stack">
+<g transform="translate(18,18)">
+  <rect x="0" y="0" width="94" height="20" fill="#000080"/>
+  <rect x="0" y="0" width="94" height="20" fill="none" stroke="#c0c0c0" stroke-width="2"/>
+  <text x="11" y="14" font-family="'Courier New',monospace" font-size="11" font-weight="bold" fill="#33ff99">LANGUAGES</text>
+</g>
+<g transform="translate(18,46)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#3776AB"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">PYTHON</text>
+</g>
+<g transform="translate(116,46)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#9B6BE3"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">C#</text>
+</g>
+<g transform="translate(214,46)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#3178C6"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">TYPESCRIPT</text>
+</g>
+<g transform="translate(312,46)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#E8C500"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">JAVASCRIPT</text>
+</g>
+<g transform="translate(410,46)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#D2691E"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">RUST</text>
+</g>
+<g transform="translate(508,46)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#E34F26"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">HTML5</text>
+</g>
+<g transform="translate(18,89)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#1572B6"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">CSS3</text>
+</g>
+<g transform="translate(18,142)">
+  <rect x="0" y="0" width="158" height="20" fill="#000080"/>
+  <rect x="0" y="0" width="158" height="20" fill="none" stroke="#c0c0c0" stroke-width="2"/>
+  <text x="11" y="14" font-family="'Courier New',monospace" font-size="11" font-weight="bold" fill="#33ff99">FRAMEWORKS &amp; LIBS</text>
+</g>
+<g transform="translate(18,170)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#7B5BD6"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">ASP.NET</text>
+</g>
+<g transform="translate(116,170)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#9AA0A6"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">FLASK</text>
+</g>
+<g transform="translate(214,170)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#9AA0A6"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">NEXT.JS</text>
+</g>
+<g transform="translate(312,170)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#4FC08D"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">VUE.JS</text>
+</g>
+<g transform="translate(410,170)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#FF3E00"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">SVELTE</text>
+</g>
+<g transform="translate(508,170)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#24C8DB"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">TAURI</text>
+</g>
+<g transform="translate(18,213)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#47848F"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">ELECTRON</text>
+</g>
+<g transform="translate(116,213)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#646CFF"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">VITE</text>
+</g>
+<g transform="translate(214,213)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#2EAD33"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">PLAYWRIGHT</text>
+</g>
+<g transform="translate(18,266)">
+  <rect x="0" y="0" width="94" height="20" fill="#000080"/>
+  <rect x="0" y="0" width="94" height="20" fill="none" stroke="#c0c0c0" stroke-width="2"/>
+  <text x="11" y="14" font-family="'Courier New',monospace" font-size="11" font-weight="bold" fill="#33ff99">DATABASES</text>
+</g>
+<g transform="translate(18,294)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#4169E1"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">POSTGRES</text>
+</g>
+<g transform="translate(116,294)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#CC2927"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">MS SQL</text>
+</g>
+<g transform="translate(214,294)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#47A248"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">MONGODB</text>
+</g>
+<g transform="translate(312,294)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#2D8FD0"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">SQLITE</text>
+</g>
+<g transform="translate(410,294)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#3FCF8E"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">SUPABASE</text>
+</g>
+<g transform="translate(18,347)">
+  <rect x="0" y="0" width="198" height="20" fill="#000080"/>
+  <rect x="0" y="0" width="198" height="20" fill="none" stroke="#c0c0c0" stroke-width="2"/>
+  <text x="11" y="14" font-family="'Courier New',monospace" font-size="11" font-weight="bold" fill="#33ff99">CLOUD / DEVOPS / TOOLS</text>
+</g>
+<g transform="translate(18,375)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#2496ED"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">DOCKER</text>
+</g>
+<g transform="translate(116,375)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#F38020"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">CLOUDFLARE</text>
+</g>
+<g transform="translate(214,375)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#9AA0A6"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">VERCEL</text>
+</g>
+<g transform="translate(312,375)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#FFCA28"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">FIREBASE</text>
+</g>
+<g transform="translate(410,375)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#2088FF"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">ACTIONS</text>
+</g>
+<g transform="translate(508,375)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#009639"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">NGINX</text>
+</g>
+<g transform="translate(18,418)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#FCC624"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">LINUX</text>
+</g>
+<g transform="translate(116,418)">
+  <rect width="88" height="31" fill="#0b0b14"/>
+  <rect x="3" y="3" width="24" height="25" fill="#FF6C37"/>
+  <rect x="3" y="3" width="24" height="6" fill="#ffffff" fill-opacity="0.25"/>
+  <path d="M0 31 L0 0 L88 0" stroke="#e9e9e9" stroke-width="2" fill="none"/>
+  <path d="M88 0 L88 31 L0 31" stroke="#33333f" stroke-width="2" fill="none"/>
+  <text x="33" y="20" font-family="'Courier New',monospace" font-size="8" font-weight="bold" fill="#eaeaea" letter-spacing="0.3">POSTMAN</text>
+</g>
+</svg>

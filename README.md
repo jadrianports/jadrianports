@@ -1,11 +1,9 @@
 <!--
   ███  jadrianports — GitHub Profile README (90s WEB EDITION)  ███
-  HOW TO USE:
-  1. Create a repo named EXACTLY  jadrianports  (same as your username).
-  2. Commit BOTH files into it:  README.md  AND  welcome-wordart.svg
-  3. The cat GIFs are <img> slots. To host your OWN gif permanently:
-     open any GitHub issue, drag the gif into the comment box, copy the
-     generated  user-images.githubusercontent.com  URL, paste over the src.
+  Commit ALL of these into the jadrianports/jadrianports repo:
+    README.md · welcome-wordart.svg · marquee.svg · globe.svg
+    techstack.svg · synthwave-cat.gif
+  Everything is self-hosted (no rot-prone hotlinks).
 -->
 
 <div align="center">
@@ -21,23 +19,13 @@
 <sub>🌟 𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 🌟 · Cebu, Philippines · est. on the information superhighway</sub>
 
 <!-- ░░░ VISIT MY WEBSITE — flanked by spinning 90s globes ░░░ -->
-[![NEW](https://img.shields.io/badge/-NEW!-ff0000?style=for-the-badge)](https://portsmith.vercel.app/jadrianports/)
-
 <a href="https://portsmith.vercel.app/jadrianports/"><img src="./globe.svg" width="56" align="middle" alt="spinning globe"/>&nbsp;<img src="https://img.shields.io/badge/🌐_CLICK_HERE_»_VISIT_MY_PERSONAL_WEBSITE_«_🌐-0000ff?style=for-the-badge" align="middle" alt="Visit my personal website"/>&nbsp;<img src="./globe.svg" width="56" align="middle" alt="spinning globe"/></a>
-
-[![Portfolio](https://img.shields.io/badge/-↳_my_online_portfolio_↲-ff00ff?style=for-the-badge)](https://portsmith.vercel.app/jadrianports/)
 
 </div>
 
-```
-≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡ W E B R I N G ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-   [ « PREV ]   [ ? RANDOM SITE ]   [ HOME ]   [ JOIN THE RING ]   [ NEXT » ]
-≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-```
-
 <div align="center">
 
-🌈➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🌈
+▰▰▰▰▰▰▰▰▰▰▰▰▰ ◆ ▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 </div>
 
@@ -55,7 +43,7 @@ Hi there, websurfer! 👋 I architect **Python API integrations** that wire CRMs
 
 <div align="center">
 
-🌈➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🌈
+▰▰▰▰▰▰▰▰▰▰▰▰▰ ◆ ▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 ## ⚡ M Y   S P E C I A L T I E S ⚡
 
@@ -72,93 +60,26 @@ Hi there, websurfer! 👋 I architect **Python API integrations** that wire CRMs
 
 <div align="center">
 
-🌈➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🌈
+▰▰▰▰▰▰▰▰▰▰▰▰▰ ◆ ▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 ## 🖥️ M Y   T E C H   S T A C K 🖥️
 <sub><i>( best viewed at 800×600, 256 colors, with the sound ON )</i></sub>
 
-</div>
+<!-- ░░░ 88x31 BUTTON WALL (committed SVG) ░░░ -->
+<img src="./techstack.svg" width="92%" alt="tech stack — 88x31 buttons"/>
 
-**Languages**
+▰▰▰▰▰▰▰▰▰▰▰▰▰ ◆ ▰▰▰▰▰▰▰▰▰▰▰▰▰
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🔤 M O S T   U S E D   L A N G U A G E S 🔤
 
-**Frameworks & Libraries**
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadrianports&layout=compact&theme=default&hide_border=false&langs_count=8" alt="most used languages"/>
 
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-**Databases & Storage**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Cloud · DevOps · Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<div align="center">
-
-🌈➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🌈
-
-## 💾 F E A T U R E D   D I S K E T T E S 💾
-
-</div>
-
-```
-  __________________________________________________________________________
- |  [A:] CRYPTIQ ............ local-first encrypted secrets manager          |
- |       Tauri · Svelte 5 · Rust · libsodium (XChaCha20-Poly1305 + Argon2id) |
- |__________________________________________________________________________|
- |  [B:] PORTSMITH .......... multi-tenant portfolio hosting platform        |
- |       Next.js · Supabase RLS · Zod gates · full CI/CD + Lighthouse gate   |
- |__________________________________________________________________________|
- |  [C:] DEXTER ............. multi-server Discord music bot + AI personality|
- |       Python · discord.py · Postgres · yt-dlp · 310-test pytest suite     |
- |__________________________________________________________________________|
- |  [D:] NOFREECLOUT ........ human-paced Instagram unfollow automation      |
- |       Python · Tkinter · SQLite · instagrapi · anti-detection pacing      |
- |__________________________________________________________________________|
-```
-
-<div align="center">
-
-🌈➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🌈
-
-## 📊 M Y   H O M E P A G E   S T A T S 📊
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jadrianports&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadrianports&layout=compact&theme=default&hide_border=false" alt="top langs"/>
-
-🌈➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🌈
+▰▰▰▰▰▰▰▰▰▰▰▰▰ ◆ ▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 ## 😺 T H E   S U P E R V I S O R S 😺
 
-<!-- ░░░ ANIMATED CAT GIF SLOT  (drag your own gif into a GitHub issue, paste URL here) ░░░ -->
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="cat — replace with your favorite hosted gif"/>
+<!-- ░░░ self-hosted synthwave cat ░░░ -->
+<img src="./synthwave-cat.gif" width="240" alt="synthwave supervisor cat"/>
 
 </div>
 
@@ -172,9 +93,22 @@ Hi there, websurfer! 👋 I architect **Python API integrations** that wire CRMs
 
 <div align="center">
 
-🌈➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🌈
+▰▰▰▰▰▰▰▰▰▰▰▰▰ ◆ ▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 ## 📟 D R O P   M E   A   L I N E 📟
+
+</div>
+
+```
+        .------------------------------------------.
+        |   ::   M A I L   T E R M I N A L  v1.0   :: |
+        |--------------------------------------------|
+        |   > YOU'VE GOT MAIL!  leave a message...    |
+        |   > C:\inbox\_                              |
+        '--------------------------------------------'
+```
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/📧_E--MAIL_ME!-jadrianporter@gmail.com-00aa00?style=for-the-badge)](mailto:jadrianporter@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jadrianports-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jadrianports)
@@ -197,6 +131,6 @@ Hi there, websurfer! 👋 I architect **Python API integrations** that wire CRMs
   +--------------------------------------------------------------+
 ```
 
-🌈➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🌈
+▰▰▰▰▰▰▰▰▰▰▰▰▰ ◆ ▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 </div>
