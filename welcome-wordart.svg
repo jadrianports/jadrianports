@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Welcome to my GitHub Profile">
+  <defs>
+    <!-- classic WordArt vertical rainbow -->
+    <linearGradient id="rainbow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#ff0000"/>
+      <stop offset="18%" stop-color="#ff8a00"/>
+      <stop offset="36%" stop-color="#ffe600"/>
+      <stop offset="54%" stop-color="#33dd00"/>
+      <stop offset="72%" stop-color="#00a3ff"/>
+      <stop offset="88%" stop-color="#5b00ff"/>
+      <stop offset="100%" stop-color="#c800ff"/>
+    </linearGradient>
+    <!-- 3D drop shadow like the Word preset -->
+    <filter id="word3d" x="-10%" y="-10%" width="120%" height="140%">
+      <feDropShadow dx="4" dy="4" stdDeviation="0" flood-color="#000000" flood-opacity="0.55"/>
+      <feDropShadow dx="7" dy="7" stdDeviation="0" flood-color="#808080" flood-opacity="0.35"/>
+    </filter>
+    <!-- the smile arc the text rides on -->
+    <path id="arc" d="M 70 195 Q 500 20 930 195" fill="none"/>
+  </defs>
+
+  <g filter="url(#word3d)" font-family="'Arial Black', Impact, 'Franklin Gothic Heavy', sans-serif" font-weight="900">
+    <text font-size="62" letter-spacing="1"
+          fill="url(#rainbow)" stroke="#000000" stroke-width="2" paint-order="stroke">
+      <textPath href="#arc" startOffset="50%" text-anchor="middle">Welcome to my GitHub Profile</textPath>
+    </text>
+  </g>
+</svg>
