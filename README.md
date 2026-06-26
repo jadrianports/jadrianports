@@ -104,11 +104,8 @@ Hi there, websurfer! 👋 I architect **Python API integrations** that wire CRMs
 
 <br/><br/>
 
-<sub>★ ☆ ★  Y O U   A R E   V I S I T O R   No.  ★ ☆ ★</sub>
-
-<br/>
-
-<img src="./odometer.svg" height="42" alt="visitor counter"/>
+<!-- ░░░ REAL live visitor counter (komarev) — styled retro ░░░ -->
+[![Visitor Count](https://komarev.com/ghpvc/?username=jadrianports&style=for-the-badge&color=39ff14&label=★+YOU+ARE+VISITOR+NUMBER)](https://github.com/jadrianports)
 
 ```
   +--------------------------------------------------------------+
