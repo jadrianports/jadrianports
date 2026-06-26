@@ -20,9 +20,11 @@
 
 <sub>🌟 𝕊𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 🌟 · Cebu, Philippines · est. on the information superhighway</sub>
 
-<!-- ░░░ VISIT MY WEBSITE — the whole point of a 90s homepage ░░░ -->
+<!-- ░░░ VISIT MY WEBSITE — flanked by spinning 90s globes ░░░ -->
 [![NEW](https://img.shields.io/badge/-NEW!-ff0000?style=for-the-badge)](https://portsmith.vercel.app/jadrianports/)
-[![Visit my personal website](https://img.shields.io/badge/🌐_CLICK_HERE_»_VISIT_MY_PERSONAL_WEBSITE_«_🌐-0000ff?style=for-the-badge&logoColor=white)](https://portsmith.vercel.app/jadrianports/)
+
+<a href="https://portsmith.vercel.app/jadrianports/"><img src="./globe.svg" width="56" align="middle" alt="spinning globe"/>&nbsp;<img src="https://img.shields.io/badge/🌐_CLICK_HERE_»_VISIT_MY_PERSONAL_WEBSITE_«_🌐-0000ff?style=for-the-badge" align="middle" alt="Visit my personal website"/>&nbsp;<img src="./globe.svg" width="56" align="middle" alt="spinning globe"/></a>
+
 [![Portfolio](https://img.shields.io/badge/-↳_my_online_portfolio_↲-ff00ff?style=for-the-badge)](https://portsmith.vercel.app/jadrianports/)
 
 </div>
