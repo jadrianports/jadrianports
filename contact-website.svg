@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="38" viewBox="0 0 188 38" role="img" aria-label="MY WEBSITE">
+  <rect width="188" height="38" fill="#0b0b14"/>
+  <rect x="3" y="3" width="32" height="32" fill="#0000ff"/>
+  <rect x="3" y="3" width="32" height="7" fill="#ffffff" fill-opacity="0.22"/>
+  <g stroke="#fff" stroke-width="1.4" fill="none"><circle cx="19" cy="19.0" r="11" fill="#1f86d8"/><ellipse cx="19" cy="19.0" rx="11" ry="5.0"/><line x1="8" y1="19.0" x2="30" y2="19.0"/><ellipse cx="19" cy="19.0" rx="5.0" ry="11"/></g>
+  <path d="M0 38 L0 0 L188 0" stroke="#e9e9e9" stroke-width="2.5" fill="none"/>
+  <path d="M188 0 L188 38 L0 38" stroke="#33333f" stroke-width="2.5" fill="none"/>
+  <text x="44" y="23" font-family="'Courier New',monospace" font-size="12" font-weight="bold" fill="#33ff99" letter-spacing="0.5">MY WEBSITE</text>
+</svg>

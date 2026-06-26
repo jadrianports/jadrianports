@@ -25,7 +25,7 @@
 
 <div align="center">
 
-▰▰▰▰▰▰▰▰▰▰▰▰▰ ◆ ▰▰▰▰▰▰▰▰▰▰▰▰▰
+<img src="./divider.svg" width="80%" alt="divider"/>
 
 </div>
 
@@ -43,7 +43,7 @@ Hi there, websurfer! 👋 I architect **Python API integrations** that wire CRMs
 
 <div align="center">
 
-▰▰▰▰▰▰▰▰▰▰▰▰▰ ◆ ▰▰▰▰▰▰▰▰▰▰▰▰▰
+<img src="./divider.svg" width="80%" alt="divider"/>
 
 ## ⚡ M Y   S P E C I A L T I E S ⚡
 
@@ -60,7 +60,7 @@ Hi there, websurfer! 👋 I architect **Python API integrations** that wire CRMs
 
 <div align="center">
 
-▰▰▰▰▰▰▰▰▰▰▰▰▰ ◆ ▰▰▰▰▰▰▰▰▰▰▰▰▰
+<img src="./divider.svg" width="80%" alt="divider"/>
 
 ## 🖥️ M Y   T E C H   S T A C K 🖥️
 <sub><i>( best viewed at 800×600, 256 colors, with the sound ON )</i></sub>
@@ -68,13 +68,13 @@ Hi there, websurfer! 👋 I architect **Python API integrations** that wire CRMs
 <!-- ░░░ 88x31 BUTTON WALL (committed SVG) ░░░ -->
 <img src="./techstack.svg" width="92%" alt="tech stack — 88x31 buttons"/>
 
-▰▰▰▰▰▰▰▰▰▰▰▰▰ ◆ ▰▰▰▰▰▰▰▰▰▰▰▰▰
+<img src="./divider.svg" width="80%" alt="divider"/>
 
 ## 🔤 M O S T   U S E D   L A N G U A G E S 🔤
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadrianports&layout=compact&theme=default&hide_border=false&langs_count=8" alt="most used languages"/>
 
-▰▰▰▰▰▰▰▰▰▰▰▰▰ ◆ ▰▰▰▰▰▰▰▰▰▰▰▰▰
+<img src="./divider.svg" width="80%" alt="divider"/>
 
 ## 😺 T H E   S U P E R V I S O R S 😺
 
@@ -93,26 +93,11 @@ Hi there, websurfer! 👋 I architect **Python API integrations** that wire CRMs
 
 <div align="center">
 
-▰▰▰▰▰▰▰▰▰▰▰▰▰ ◆ ▰▰▰▰▰▰▰▰▰▰▰▰▰
+<img src="./divider.svg" width="80%" alt="divider"/>
 
 ## 📟 D R O P   M E   A   L I N E 📟
 
-</div>
-
-```
-        .------------------------------------------.
-        |   ::   M A I L   T E R M I N A L  v1.0   :: |
-        |--------------------------------------------|
-        |   > YOU'VE GOT MAIL!  leave a message...    |
-        |   > C:\inbox\_                              |
-        '--------------------------------------------'
-```
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧_E--MAIL_ME!-jadrianporter@gmail.com-00aa00?style=for-the-badge)](mailto:jadrianporter@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-jadrianports-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jadrianports)
-[![Website](https://img.shields.io/badge/🏠_MY_WEBSITE-portsmith.vercel.app-0000ff?style=for-the-badge)](https://portsmith.vercel.app/jadrianports/)
+<a href="mailto:jadrianporter@gmail.com"><img src="./contact-email.svg" alt="e-mail me"/></a>&nbsp;<a href="https://github.com/jadrianports"><img src="./contact-github.svg" alt="github"/></a>&nbsp;<a href="https://portsmith.vercel.app/jadrianports/"><img src="./contact-website.svg" alt="my website"/></a>
 
 <br/>
 
@@ -131,6 +116,6 @@ Hi there, websurfer! 👋 I architect **Python API integrations** that wire CRMs
   +--------------------------------------------------------------+
 ```
 
-▰▰▰▰▰▰▰▰▰▰▰▰▰ ◆ ▰▰▰▰▰▰▰▰▰▰▰▰▰
+<img src="./divider.svg" width="80%" alt="divider"/>
 
 </div>
