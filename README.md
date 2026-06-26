@@ -70,9 +70,7 @@ Hi there, websurfer! 👋 I architect **Python API integrations** that wire CRMs
 
 <img src="./divider.svg" width="80%" alt="divider"/>
 
-## 🔤 M O S T   U S E D   L A N G U A G E S 🔤
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadrianports&layout=compact&theme=default&hide_border=false&langs_count=8" alt="most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadrianports&layout=compact&hide_border=false&langs_count=8&bg_color=0b0b14&title_color=ff3df2&text_color=eaeaea&icon_color=00e0ff&border_color=9b5cff" alt="most used languages"/>
 
 <img src="./divider.svg" width="80%" alt="divider"/>
 
@@ -101,13 +99,16 @@ Hi there, websurfer! 👋 I architect **Python API integrations** that wire CRMs
 
 <br/>
 
-<!-- ░░░ AUTHENTIC 90s FOOTER BADGES ░░░ -->
-![Profile Views](https://komarev.com/ghpvc/?username=jadrianports&style=for-the-badge&color=ff00ff&label=YOU+ARE+VISITOR+No.)
+<!-- ░░░ AUTHENTIC 90s 88x31 BUTTONS (committed SVG) ░░░ -->
+<img src="./footer-buttons.svg" width="78%" alt="netscape now · made with notepad · valid html 4.0 · under construction · best viewed 1024x768"/>
 
-![Netscape Now](https://img.shields.io/badge/Netscape-NOW!-00aa00?style=for-the-badge&logo=netscape&logoColor=white)
-![Made with Notepad](https://img.shields.io/badge/made_with-NOTEPAD.EXE-008080?style=for-the-badge)
-![HTML 4.0](https://img.shields.io/badge/valid-HTML_4.0-orange?style=for-the-badge)
-![Under Construction](https://img.shields.io/badge/🚧_this_page_is_always-UNDER_CONSTRUCTION-yellow?style=for-the-badge)
+<br/><br/>
+
+<sub>★ ☆ ★  Y O U   A R E   V I S I T O R   No.  ★ ☆ ★</sub>
+
+<br/>
+
+<img src="./odometer.svg" height="42" alt="visitor counter"/>
 
 ```
   +--------------------------------------------------------------+
