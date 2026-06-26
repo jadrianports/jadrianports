@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-label="rotating globe">
+  <defs>
+    <clipPath id="sphere"><circle cx="60" cy="60" r="46"/></clipPath>
+    <radialGradient id="ocean" cx="38%" cy="32%" r="80%">
+      <stop offset="0%"  stop-color="#8fd9ff"/>
+      <stop offset="60%" stop-color="#1f86d8"/>
+      <stop offset="100%" stop-color="#0a3f7a"/>
+    </radialGradient>
+    <!-- landmasses for one rotation tile (92px wide) -->
+    <g id="land" fill="#36b24a">
+      <ellipse cx="38" cy="42" rx="13" ry="9" transform="rotate(-25 38 42)"/>
+      <ellipse cx="58" cy="65" rx="11" ry="17" transform="rotate(12 58 65)"/>
+      <ellipse cx="84" cy="47" rx="9"  ry="7"/>
+      <ellipse cx="72" cy="86" rx="10" ry="6" transform="rotate(20 72 86)"/>
+      <ellipse cx="26" cy="76" rx="7"  ry="5"/>
+      <circle  cx="99" cy="70" r="5"/>
+    </g>
+  </defs>
+
+  <!-- sphere base -->
+  <circle cx="60" cy="60" r="48" fill="#072f5c"/>
+  <g clip-path="url(#sphere)">
+    <circle cx="60" cy="60" r="46" fill="url(#ocean)"/>
+    <!-- scrolling continents = rotation -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-92 0" dur="6s" repeatCount="indefinite"/>
+      <use href="#land" x="0"/>
+      <use href="#land" x="92"/>
+    </g>
+    <!-- latitude / equator grid -->
+    <g stroke="#cdeeff" stroke-opacity="0.45" fill="none" stroke-width="1">
+      <line x1="14" y1="60" x2="106" y2="60"/>
+      <ellipse cx="60" cy="60" rx="46" ry="15"/>
+      <ellipse cx="60" cy="60" rx="46" ry="31"/>
+    </g>
+  </g>
+  <!-- rim + glossy highlight -->
+  <circle cx="60" cy="60" r="46" fill="none" stroke="#062a52" stroke-width="2"/>
+  <ellipse cx="45" cy="41" rx="17" ry="10" fill="#ffffff" opacity="0.20"/>
+</svg>
