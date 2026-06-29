@@ -29,17 +29,8 @@
 
 </div>
 
-```
-   /\_/\        $ whoami                                        /\_/\
-  ( o.o )       > James Adrian Porter (a.k.a. jadrianports)    ( -.- )
-   > ^ <        > role:  Cloud & API Integration Developer      > ^ <
-  /  -  \       > loc :  Lapu-Lapu City, Cebu, Philippines      zZ
- (|     |)      > edu :  BSIT, Cum Laude · Best Capstone        (|   |)
-  \__|__/       > job :  making machines do the boring stuff     \_|_/
-   "" ""        $ _                                              "" ""
-```
 
-Hi there, websurfer! 👋 I architect **Python API integrations** that wire CRMs, productivity suites, and serverless guts together, build **resilient ETL & scraping pipelines** that survive hostile websites, design **databases** that don't fall over at 95,000+ rows, and ship **local-first desktop tools** when the cloud is overkill. The cats handle code review.
+Hi there. 👋 I architect **Python API integrations** that wire CRMs, productivity suites, and serverless guts together, build **resilient ETL & scraping pipelines** that survive hostile websites, design **databases** that don't fall over at 95,000+ rows, and ship **local-first desktop tools** when the cloud is overkill. The cats handle code review.
 
 <div align="center">
 
@@ -86,7 +77,7 @@ Hi there, websurfer! 👋 I architect **Python API integrations** that wire CRMs
    /\_/\    /\_/\    /\_/\    /\_/\    /\_/\    /\_/\    /\_/\    /\_/\
   ( ^.^ )  ( o.o )  ( -.- )  ( o.o )  ( ^.^ )  ( o.o )  ( -.- )  ( o.o )
    > ^ <    > ^ <    > ^ <    > ^ <    > ^ <    > ^ <    > ^ <    > ^ <
-      "shipping code one nap at a time since 2024"
+      
 ```
 
 <div align="center">
@@ -107,12 +98,7 @@ Hi there, websurfer! 👋 I architect **Python API integrations** that wire CRMs
 <!-- ░░░ REAL live visitor counter (komarev) — styled retro ░░░ -->
 [![Visitor Count](https://komarev.com/ghpvc/?username=jadrianports&style=for-the-badge&color=39ff14&label=★+YOU+ARE+VISITOR+NUMBER)](https://github.com/jadrianports)
 
-```
-  +--------------------------------------------------------------+
-  |   (c) 19XX-20XX jadrianports  ·  no cats were harmed  ·  =^.^= |
-  |   thanks for surfing by! · don't forget to bookmark me!        |
-  +--------------------------------------------------------------+
-```
+
 
 <img src="./divider.svg" width="80%" alt="divider"/>
 
